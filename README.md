@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm <audio src="https://sozluk.gov.tr/ses/o0132.wav"><i>Oğuz</i></audio></h1>
+<h1 align="center">Hi 👋, I'm O~uz.</h1>
 
 <h3 align="center">A passionate web development enthusiast from İzmir, Turkey</h3>
-<h5 align="center">*** Also, how learning web development goes on can be described as follows.</h5>
+<h5 align="center">Also, how learning web development goes on can be described as follows:</h5>
 
-<img align="center" src="https://c.tenor.com/hAhRO9L4gpgAAAAd/the-office-steve-carell.gif" width="450" height="200">
+<p align="center"><img src="https://c.tenor.com/hAhRO9L4gpgAAAAd/the-office-steve-carell.gif" width="375" height="175"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzdashyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="oguzdashyilmaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzdashyilmaz" alt="oguzdashyilmaz" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js and Node.js**
 
