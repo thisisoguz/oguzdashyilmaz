@@ -5,9 +5,6 @@
 
 <p align="center"><img src="https://c.tenor.com/hAhRO9L4gpgAAAAd/the-office-steve-carell.gif" width="375" height="175"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzdashyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="oguzdashyilmaz" /> </p>
-
-
 - 🌱 I’m currently learning **Vue.js and Node.js**
 
 - 📫 How to reach me **yilmazoguz@outlook.com**
