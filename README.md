@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://c.tenor.com/hAhRO9L4gpgAAAAd/the-office-steve-carell.gif" width="375" height="175"></p>
 
-- 🌱 I’m currently learning **Vue.js and Node.js**
+- 🌱 I’m currently learning **React.js.**
 
 - 📫 How to reach me **yilmazoguz@outlook.com**
 
