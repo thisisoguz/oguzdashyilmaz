@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm O~uz.</h1>
 
-<h3 align="center">A passionate web development enthusiast from İzmir, Turkey</h3>
-<h5 align="center">Also, how learning web development goes on can be described as follows:</h5>
-
-<p align="center"><img src="https://c.tenor.com/hAhRO9L4gpgAAAAd/the-office-steve-carell.gif" width="375" height="175"></p>
+<h3 align="center">A React.js enthusiast</h3>
 
 - 🌱 I’m currently learning **React.js.**
 - 📫 How to reach me **yilmazoguz@outlook.com**
