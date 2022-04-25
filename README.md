@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm O~uz.</h1>
 
-<h3 align="center">A React.js enthusiast</h3>
+<h3 align="center">A React.js enthusiast from Izmir, Turkey</h3>
 
 - 🌱 I’m currently learning **React.js.**
 - 📫 How to reach me **yilmazoguz@outlook.com**
